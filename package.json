@@ -1,0 +1,16 @@
+{
+  "name": "calculadora",
+  "version": "1.0.0",
+  "description": "Clculadora para aprender a usar modulos en node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "numbers",
+    "calculadora",
+    "student"
+  ],
+  "author": "Sandra Rodz",
+  "license": "ISC"
+}
